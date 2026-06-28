@@ -12,3 +12,18 @@ C:\Users\François\Desktop\projet POO fin d'année\ServerMineAger\ServerMineAger
 C:\Users\François\Desktop\projet POO fin d'année\ServerMineAger\ServerMineAger\obj\Debug\net10.0\ServerMineAger.pdb
 C:\Users\François\Desktop\projet POO fin d'année\ServerMineAger\ServerMineAger\obj\Debug\net10.0\ServerMineAger.genruntimeconfig.cache
 C:\Users\François\Desktop\projet POO fin d'année\ServerMineAger\ServerMineAger\obj\Debug\net10.0\ref\ServerMineAger.dll
+C:\Users\François\source\repos\direxmann\ServerMineAger\ServerMineAger\ServerMineAger\bin\Debug\net10.0\ServerMineAger.exe
+C:\Users\François\source\repos\direxmann\ServerMineAger\ServerMineAger\ServerMineAger\bin\Debug\net10.0\ServerMineAger.deps.json
+C:\Users\François\source\repos\direxmann\ServerMineAger\ServerMineAger\ServerMineAger\bin\Debug\net10.0\ServerMineAger.runtimeconfig.json
+C:\Users\François\source\repos\direxmann\ServerMineAger\ServerMineAger\ServerMineAger\bin\Debug\net10.0\ServerMineAger.dll
+C:\Users\François\source\repos\direxmann\ServerMineAger\ServerMineAger\ServerMineAger\bin\Debug\net10.0\ServerMineAger.pdb
+C:\Users\François\source\repos\direxmann\ServerMineAger\ServerMineAger\ServerMineAger\obj\Debug\net10.0\ServerMineAger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\François\source\repos\direxmann\ServerMineAger\ServerMineAger\ServerMineAger\obj\Debug\net10.0\ServerMineAger.AssemblyInfoInputs.cache
+C:\Users\François\source\repos\direxmann\ServerMineAger\ServerMineAger\ServerMineAger\obj\Debug\net10.0\ServerMineAger.AssemblyInfo.cs
+C:\Users\François\source\repos\direxmann\ServerMineAger\ServerMineAger\ServerMineAger\obj\Debug\net10.0\ServerMineAger.csproj.CoreCompileInputs.cache
+C:\Users\François\source\repos\direxmann\ServerMineAger\ServerMineAger\ServerMineAger\obj\Debug\net10.0\ServerMineAger.sourcelink.json
+C:\Users\François\source\repos\direxmann\ServerMineAger\ServerMineAger\ServerMineAger\obj\Debug\net10.0\ServerMineAger.dll
+C:\Users\François\source\repos\direxmann\ServerMineAger\ServerMineAger\ServerMineAger\obj\Debug\net10.0\refint\ServerMineAger.dll
+C:\Users\François\source\repos\direxmann\ServerMineAger\ServerMineAger\ServerMineAger\obj\Debug\net10.0\ServerMineAger.pdb
+C:\Users\François\source\repos\direxmann\ServerMineAger\ServerMineAger\ServerMineAger\obj\Debug\net10.0\ServerMineAger.genruntimeconfig.cache
+C:\Users\François\source\repos\direxmann\ServerMineAger\ServerMineAger\ServerMineAger\obj\Debug\net10.0\ref\ServerMineAger.dll

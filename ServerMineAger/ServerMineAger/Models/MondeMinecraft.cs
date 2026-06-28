@@ -26,6 +26,7 @@ namespace ServerMineAger.Models
 
         public void SetWeather(WeatherType weather)
         {
+            WeatherActuel = weather;
             Console.WriteLine("/weather " + weather.ToString().ToLower());
             Console.WriteLine($"Set the weather to {weather}");
         }

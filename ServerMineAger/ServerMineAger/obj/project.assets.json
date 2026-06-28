@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\franc\\.nuget\\packages\\": {},
+    "C:\\Users\\François\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\franc\\Desktop\\ServerMineAger\\ServerMineAger\\ServerMineAger.csproj",
+      "projectUniqueName": "C:\\Users\\François\\Desktop\\projet POO fin d'année\\ServerMineAger\\ServerMineAger\\ServerMineAger\\ServerMineAger.csproj",
       "projectName": "ServerMineAger",
-      "projectPath": "C:\\Users\\franc\\Desktop\\ServerMineAger\\ServerMineAger\\ServerMineAger.csproj",
-      "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\franc\\Desktop\\ServerMineAger\\ServerMineAger\\obj\\",
+      "projectPath": "C:\\Users\\François\\Desktop\\projet POO fin d'année\\ServerMineAger\\ServerMineAger\\ServerMineAger\\ServerMineAger.csproj",
+      "packagesPath": "C:\\Users\\François\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\François\\Desktop\\projet POO fin d'année\\ServerMineAger\\ServerMineAger\\ServerMineAger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\François\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

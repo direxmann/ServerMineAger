@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServerMineAger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3b75ed7f35622318c9c82263652997b17b957ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9adb18226d734825a5582eb3feba5eaa4550fb9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServerMineAger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServerMineAger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

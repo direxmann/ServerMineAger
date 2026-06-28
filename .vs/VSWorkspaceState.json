@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ServerMineAger",
+    "\\ServerMineAger\\ServerMineAger",
+    "\\ServerMineAger\\ServerMineAger\\Commands",
+    "\\ServerMineAger\\ServerMineAger\\Models",
+    "\\ServerMineAger\\ServerMineAger\\Models\\Enums",
+    "\\ServerMineAger\\ServerMineAger\\Models\\Joueurs",
+    "\\ServerMineAger\\ServerMineAger\\UI"
+  ],
+  "SelectedNode": "\\ServerMineAger\\ServerMineAger\\Models\\MondeMinecraft.cs",
+  "PreviewInSolutionExplorer": false
+}

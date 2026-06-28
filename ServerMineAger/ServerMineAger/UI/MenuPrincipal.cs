@@ -96,8 +96,9 @@ namespace ServerMineAger.UI
             Console.WriteLine("5. Change gamemode");
             Console.WriteLine("6. Change time");
             Console.WriteLine("7. Change weather");
-            Console.WriteLine("8. Undo last command");
-            Console.WriteLine("9. Show command history");
+            Console.WriteLine("8. Kick player");
+            Console.WriteLine("9. Undo last command");
+            Console.WriteLine("10. Show command history");
             Console.WriteLine("0. Quit");
             Console.WriteLine("==================================");
         }
